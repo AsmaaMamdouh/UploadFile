@@ -1,10 +1,10 @@
 # UploadFile
 steps of project
 
-I used visual studio 2017 and sql server 2014.
-I used asp.net WebForms , ADO to connect to Database.
-database "BloggingSystem" has 5tables(Admin,Registeration,Category,Articale,Comment);
-on project I worked on two sides(admin side,visitor side) .
+1)I used visual studio 2017 and sql server 2014.  
+2)I used asp.net WebForms , ADO to connect to Database. 
+3)database "BloggingSystem" has 5tables(Admin,Registeration,Category,Articale,Comment);
+ on project I worked on two sides(admin side,visitor side) .
 visitor can visit site and show all articales "DisplayArticales.aspx" without registration or loggingIn.  
 visitor can also read aparticular articale in detailes "ArticaleDetails" by clicking 'read articale'.
 If visitor want to add comment to aparticular articale and he not amember(no registeration) he must register first,
