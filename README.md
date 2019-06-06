@@ -21,7 +21,8 @@ if he is amember he must login (redirect to "Login.aspx").
 9)for admin side: he must login first logging in then can add articales. (redirect to "Add_Articale.aspx").
   
 10)Note that :"Start.aspx" (Set As Start Page) from which go to admin side(for admin) or to visitor side(for visitors)
- 
+,for admin login(username:admin,password:admin)
+
 11)for frontend i used a ready-made template with some modification i made on it. 
 
 12)I create backup of database,script of inserted data to tables that uploaded to repository. 
